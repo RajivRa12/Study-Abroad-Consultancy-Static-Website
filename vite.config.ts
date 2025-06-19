@@ -19,5 +19,5 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base: '/your-repo-name/',
+  // base: '/your-repo-name/', // Commented out for local development
 }));
