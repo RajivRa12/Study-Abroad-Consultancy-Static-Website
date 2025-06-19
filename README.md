@@ -28,7 +28,7 @@ NextstepEd provides expert guidance for students seeking international education
 ### Installation
 ```sh
 git clone <YOUR_GIT_REPO_URL>
-cd globe-trotter-connect-site-main
+cd study-abroad-consultancy-static-website
 npm install
 ```
 
@@ -52,7 +52,7 @@ Visit [http://localhost:8080](http://localhost:8080) in your browser.
 
 ## 📁 Project Structure
 ```
-globe-trotter-connect-site-main/
+study-abroad-consultancy-static-website/
   public/           # Static assets (images, favicon, etc.)
   src/
     components/     # React components
@@ -75,3 +75,8 @@ For questions or support, contact:
 
 ---
 Proudly built for NextstepEd | Your Gateway to Studying Abroad
+
+ScreenShot 👇🏼
+<img width="1470" alt="Screenshot 2025-06-19 at 01 12 30" src="https://github.com/user-attachments/assets/d9a8ec1f-b6f6-42b5-89c6-24788ee0816a" />
+<img width="1470" alt="Screenshot 2025-06-19 at 01 12 37" src="https://github.com/user-attachments/assets/d3b9efaa-ccf9-4b65-8fea-ebe9196b143b" />
+
